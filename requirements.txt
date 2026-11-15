@@ -1,4 +1,6 @@
-gradio>=5.0,<6.0
-faster-whisper>=1.1.0
-yt-dlp>=2025.1.15
-requests>=2.32.0
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+yt-dlp
+faster-whisper==1.0.3
+anthropic
+pydantic==2.9.2
